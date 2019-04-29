@@ -1,2 +1,5 @@
 # alcool-v1
-Open source breathalyzer - powered by Arduino!
+## Open source breathalyzer - powered by Arduino!
+![Alcool logo](logo.png)
+
+
